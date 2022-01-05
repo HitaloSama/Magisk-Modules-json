@@ -1,34 +1,37 @@
 name: Generate JSON
+
 on:
   push:
   workflow_dispatch:
   schedule:
     - cron: '0 * * * *'
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      
+
       - uses: actions/setup-python@v2
         with:
           python-version: '3.x'
           architecture: 'x64'
-      
+
       - name: Setup Dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install PyGithub
-      
+          python -m pip install pip wheel setuptools -U
+          python -m pip install -r requirements.txt -U
+
       - name: Generate JSON
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          export GIT_TOKEN="${{ secrets.AUTH_KEY }}"
-          python generate.py "${{ secrets.GITHUB_TOKEN }}" > modules.json
-          
+          python generate.py
+
       - name: Commit Changes
         run: |
-          git config --global user.email "mmar-json@users.noreply.github.com"
-          git config --global user.name "mmar-json"
+          git config --global user.email "40531911+HitaloSama@users.noreply.github.com"
+          git config --global user.name "Hitalo"
           git add modules.json
-          git commit -sm "Update modules.json" || true
-          git push || true
+          git commit -sm "Publish modules: `date +'%Y-%m-%d %T'`"
+          git push
