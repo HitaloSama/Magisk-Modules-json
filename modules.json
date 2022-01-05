@@ -241,7 +241,7 @@
         },
         {
             "id": "energizedprotection",
-            "last_update": 1640014048000,
+            "last_update": 1641401101000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/master.zip"
@@ -374,7 +374,7 @@
         },
         {
             "id": "MagiskHidePropsConf",
-            "last_update": 1641371569000,
+            "last_update": 1641402896000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/master.zip"
