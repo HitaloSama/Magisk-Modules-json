@@ -33,5 +33,5 @@ jobs:
           git config --global user.email "mmjsonbot@users.noreply.github.com"
           git config --global user.name "MagiskBot"
           git add modules.json
-          git commit -sm "Publish modules: `date +'%Y-%m-%d %T'`"
-          git push
+          git commit -sm "Publish modules: `date +'%Y-%m-%d %T'`" || true
+          git push || true
