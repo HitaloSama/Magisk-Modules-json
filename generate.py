@@ -34,10 +34,15 @@ for repo in repos:
             lhs, rhs = line.split("=", 1)
             moduleprop[lhs] = rhs
 
+        # Get latest commit and commit date
+        commit_sha = repo.get_commits()[0].sha
+        commit = repo.get_commit(sha=commit_sha)
+        commit_date = commit.commit.committer.date
+
         # Create meta module information
         module = {
             "id": moduleprop["id"],
-            "last_update": int(repo.updated_at.timestamp() * 1000),
+            "last_update": int(commit_date.timestamp() * 1000),
             "prop_url": f"https://raw.githubusercontent.com/{repo.full_name}/{repo.default_branch}/module.prop",
             "zip_url": f"https://github.com/{repo.full_name}/archive/{repo.default_branch}.zip",
             "notes_url": f"https://raw.githubusercontent.com/{repo.full_name}/{repo.default_branch}/README.md",
@@ -45,7 +50,7 @@ for repo in repos:
 
         # Append to skeleton
         meta["modules"].append(module)
-    except:
+    except BaseException:
         continue
 
 # Save our final skeleton to modules.json
