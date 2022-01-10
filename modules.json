@@ -3,7 +3,7 @@
     "modules": [
         {
             "id": "acc",
-            "last_update": 1641626898000,
+            "last_update": 1641772140000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acc/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acc/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Repo/acc/archive/master.zip"
@@ -157,7 +157,7 @@
         },
         {
             "id": "ccbins",
-            "last_update": 1641764676000,
+            "last_update": 1641770003000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Repo/ccbins/archive/master.zip"
@@ -311,7 +311,7 @@
         },
         {
             "id": "HideNavBar",
-            "last_update": 1641219698000,
+            "last_update": 1641772145000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideNavBar/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideNavBar/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/master.zip"
