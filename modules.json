@@ -528,7 +528,7 @@
         },
         {
             "id": "riru_clipboard_whitelist",
-            "last_update": 1641126667000,
+            "last_update": 1642304644000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_clipboard_whitelist/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_clipboard_whitelist/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Repo/riru_clipboard_whitelist/archive/master.zip"
@@ -542,7 +542,7 @@
         },
         {
             "id": "riru_ifw_enhance",
-            "last_update": 1641125290000,
+            "last_update": 1642304814000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_ifw_enhance/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_ifw_enhance/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Repo/riru_ifw_enhance/archive/master.zip"
