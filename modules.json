@@ -122,7 +122,7 @@
         },
         {
             "id": "BluetoothLibraryPatcher",
-            "last_update": 1640599902000,
+            "last_update": 1642498453000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/archive/master.zip"
