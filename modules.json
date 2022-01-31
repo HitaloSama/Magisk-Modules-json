@@ -163,13 +163,6 @@
             "zip_url": "https://github.com/Magisk-Modules-Repo/ccbins/archive/master.zip"
         },
         {
-            "id": "clash_for_magisk",
-            "last_update": 1572249623000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/clash_for_magisk/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/clash_for_magisk/master/module.prop",
-            "zip_url": "https://github.com/Magisk-Modules-Repo/clash_for_magisk/archive/master.zip"
-        },
-        {
             "id": "CloudflareDNS4Magisk",
             "last_update": 1577918537000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/master/README.md",
@@ -311,7 +304,7 @@
         },
         {
             "id": "HideNavBar",
-            "last_update": 1640577090000,
+            "last_update": 1643601970000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideNavBar/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideNavBar/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/master.zip"
@@ -527,25 +520,11 @@
             "zip_url": "https://github.com/Magisk-Modules-Repo/riru-core/archive/master.zip"
         },
         {
-            "id": "riru_clipboard_whitelist",
-            "last_update": 1642304644000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_clipboard_whitelist/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_clipboard_whitelist/master/module.prop",
-            "zip_url": "https://github.com/Magisk-Modules-Repo/riru_clipboard_whitelist/archive/master.zip"
-        },
-        {
             "id": "riru_edxposed",
             "last_update": 1613616737000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_edxposed/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_edxposed/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Repo/riru_edxposed/archive/master.zip"
-        },
-        {
-            "id": "riru_ifw_enhance",
-            "last_update": 1642304814000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_ifw_enhance/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_ifw_enhance/master/module.prop",
-            "zip_url": "https://github.com/Magisk-Modules-Repo/riru_ifw_enhance/archive/master.zip"
         },
         {
             "id": "riru_location_report_enabler",
