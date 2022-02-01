@@ -360,7 +360,7 @@
         },
         {
             "id": "magisk-frida",
-            "last_update": 1643195514000,
+            "last_update": 1643674578000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/magisk-frida/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/magisk-frida/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-frida/archive/master.zip"
