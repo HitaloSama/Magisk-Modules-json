@@ -359,13 +359,6 @@
             "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-drm-disabler/archive/master.zip"
         },
         {
-            "id": "magisk-frida",
-            "last_update": 1644532137000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/magisk-frida/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/magisk-frida/master/module.prop",
-            "zip_url": "https://github.com/Magisk-Modules-Repo/magisk-frida/archive/master.zip"
-        },
-        {
             "id": "MagiskHidePropsConf",
             "last_update": 1636456956000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
