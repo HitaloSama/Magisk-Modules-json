@@ -128,13 +128,6 @@
             "zip_url": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/archive/master.zip"
         },
         {
-            "id": "bromitewebview",
-            "last_update": 1640875088000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/bromitewebview/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/bromitewebview/master/module.prop",
-            "zip_url": "https://github.com/Magisk-Modules-Repo/bromitewebview/archive/master.zip"
-        },
-        {
             "id": "busybox-ndk",
             "last_update": 1637714724000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
@@ -252,13 +245,6 @@
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Fdroid-Priv/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Fdroid-Priv/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Repo/Fdroid-Priv/archive/master.zip"
-        },
-        {
-            "id": "fontrevival",
-            "last_update": 1640859676000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/fontrevival/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/fontrevival/master/module.prop",
-            "zip_url": "https://github.com/Magisk-Modules-Repo/fontrevival/archive/master.zip"
         },
         {
             "id": "foxy-boot",
