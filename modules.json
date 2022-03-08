@@ -416,7 +416,7 @@
         },
         {
             "id": "NFCScreenOff",
-            "last_update": 1622845852000,
+            "last_update": 1646764356000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/NfcScreenOff/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/NfcScreenOff/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Repo/NfcScreenOff/archive/master.zip"
