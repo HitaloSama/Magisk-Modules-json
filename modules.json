@@ -129,7 +129,7 @@
         },
         {
             "id": "busybox-ndk",
-            "last_update": 1637714724000,
+            "last_update": 1647625458000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/master.zip"
