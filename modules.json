@@ -38,7 +38,7 @@
         },
         {
             "id": "adreno-dev",
-            "last_update": 1635797265000,
+            "last_update": 1647673681000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adreno-dev/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adreno-dev/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Repo/adreno-dev/archive/master.zip"
