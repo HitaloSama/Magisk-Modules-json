@@ -24,7 +24,7 @@
         },
         {
             "id": "adb-ndk",
-            "last_update": 1635797336000,
+            "last_update": 1647660754000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/master.zip"
@@ -696,7 +696,7 @@
         },
         {
             "id": "zipsigner",
-            "last_update": 1635797214000,
+            "last_update": 1647662107000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Repo/zipsigner/archive/master.zip"
