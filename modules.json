@@ -395,7 +395,7 @@
         },
         {
             "id": "mtd-ndk",
-            "last_update": 1635797159000,
+            "last_update": 1647658731000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mtd-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mtd-ndk/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Repo/mtd-ndk/archive/master.zip"
