@@ -1,3 +1,3 @@
-# Magisk-Modules-Repo json
+# Magisk Modules - json
 
-This repository is responsible for generating a json of official Magisk-Modules-Repo.
+This repository is responsible for generating an updates json of [Magisk-Modules-Repo](https://github.com/Magisk-Modules-Repo).

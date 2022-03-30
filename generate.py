@@ -8,16 +8,13 @@ from github import Github
 REPO_NAME = "Magisk-Modules-Repo"
 REPO_TITLE = "Magisk Modules Repo"
 
-# Skeleton for the repository
-meta = {"name": REPO_TITLE, "last_update": "", "modules": []}
-
 # Initialize the GitHub objects
 g = Github(os.environ["GH_TOKEN"])
 user = g.get_user(REPO_NAME)
 repos = user.get_repos()
 
-# Fetch the last repository update
-meta["last_update"] = int(user.updated_at.timestamp() * 1000)
+# Skeleton for the repository
+meta = {"name": REPO_TITLE, "last_update": int(user.updated_at.timestamp() * 1000), "modules": []}
 
 # Iterate over all public repositories
 for repo in repos:
