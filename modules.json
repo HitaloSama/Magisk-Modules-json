@@ -611,13 +611,6 @@
             "zip_url": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/master.zip"
         },
         {
-            "id": "v2ray",
-            "last_update": 1644507409000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/v2ray/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/v2ray/master/module.prop",
-            "zip_url": "https://github.com/Magisk-Modules-Repo/v2ray/archive/master.zip"
-        },
-        {
             "id": "ViPER4AndroidFX",
             "last_update": 1637515468000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4Android-FX/master/README.md",
