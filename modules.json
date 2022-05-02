@@ -100,13 +100,6 @@
             "zip_url": "https://github.com/Magisk-Modules-Repo/ARCore_enabler/archive/master.zip"
         },
         {
-            "id": "aria2c",
-            "last_update": 1611655495000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/aria2c/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/aria2c/master/module.prop",
-            "zip_url": "https://github.com/Magisk-Modules-Repo/aria2c/archive/master.zip"
-        },
-        {
             "id": "ASUS-Style-Suite",
             "last_update": 1554326657000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ASUS-Style-Suite/master/README.md",
@@ -217,13 +210,6 @@
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/djs/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/djs/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Repo/djs/archive/master.zip"
-        },
-        {
-            "id": "dnscrypt-proxy2",
-            "last_update": 1611654815000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/dnscrypt-proxy2/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/dnscrypt-proxy2/master/module.prop",
-            "zip_url": "https://github.com/Magisk-Modules-Repo/dnscrypt-proxy2/archive/master.zip"
         },
         {
             "id": "energizedprotection",
