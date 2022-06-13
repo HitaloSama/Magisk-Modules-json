@@ -660,6 +660,13 @@
             "zip_url": "https://github.com/Magisk-Modules-Repo/wirelessFirmware/archive/master.zip"
         },
         {
+            "id": "xmlpak",
+            "last_update": 1654974385000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Repo/xmlpak/archive/master.zip"
+        },
+        {
             "id": "xposed",
             "last_update": 1556686471000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed/master/README.md",
